@@ -71,9 +71,25 @@ Conexão com a internet para carregar as fontes do Google Fonts (embora funcione
 
     https://github.com/diegalvez/Amigo-Secreto/archive/refs/heads/main.zip
 
-Abra o arquivo index.html no navegador:
+Copie o link acima e cole na barra de endereços do navegador e em seguida aperte a tecla enter.
 
-Clique com o botão direito no arquivo e escolha "Abrir com" seu navegador preferido, ou arraste o arquivo para uma aba do navegador.
+Um arquivo zip será baixado no seu computador.
+
+Extraia o arquivo zip.
+
+Abra o arquivo index.html clicando duas vezes sobre ele.
+
+Agora é só jogar!
+
+<h2>Jogue online</h2>
+
+    https://diegalvez.github.io/Amigo-Secreto/
+
+Copie o link acima.
+
+Cole na barra de endereços do seu navegador e aperte enter.
+
+Agora é só jogar!
 
 <h2>Limitações</h2>
 
