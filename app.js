@@ -49,10 +49,11 @@ function atualizarLista() {
 
 function sortearAmigo() {
 
-    if (jogoSorteado) {
-        alert ("O jogo já foi sorteado. Reinicie para sortear novamente!");
-        return;
-    }
+// Comentei essa condição para permitir que o jogo podesse ser sorteado várias vezes sem precisar reiniciar o jogo
+//    if (jogoSorteado) {
+//        alert ("O jogo já foi sorteado. Reinicie para sortear novamente!");
+//        return;
+//    }
     
     if (amigos.length < 2) {
         alert("Adicione pelo menos dois amigos para sortear!");
