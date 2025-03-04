@@ -69,7 +69,7 @@ Conexão com a internet para carregar as fontes do Google Fonts (embora funcione
 
 <h4>Clone ou baixe este repositório:</h4>
 
-    git clone [URL do seu repositório]
+    git clone [https://github.com/diegalvez/Amigo-Secreto/archive/refs/heads/main.zip]
 
 Abra o arquivo index.html no navegador:
 
