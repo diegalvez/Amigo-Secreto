@@ -15,7 +15,7 @@ Sortear: Seleciona aleatoriamente um participante da lista e exibe o resultado.
 Reiniciar: Limpa a lista e o resultado para começar um novo sorteio.
 
 
-Controle de Estado: Após o sorteio, bloqueia a adição de nomes e novos sorteios até o reinício.
+Controle de Estado: Após o sorteio, bloqueia a adição de novos nomes, pemitindo apenas, novos sorteios com os nomes que já estão presentes na lista.
 
 
 <h2>Tecnologias Utilizadas</h2>
@@ -91,9 +91,4 @@ Cole na barra de endereços do seu navegador e aperte enter.
 
 Agora é só jogar!
 
-<h2>Limitações</h2>
-
-Sorteia apenas um amigo por vez, sem pareamento completo (cada participante tirando outro).
-
-Não persiste os dados (lista é reiniciada ao recarregar a página).
 
